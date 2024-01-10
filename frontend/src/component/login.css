@@ -1,0 +1,27 @@
+.body {
+  display: center;
+  align-items: center;
+  min-width: 320px;
+  margin-left: 40%;
+  margin-top: 20%;
+}
+.relo {
+  color: #359339;
+  margin-left: 10%;
+}
+
+label {
+  margin-right: 50%;
+}
+input {
+  width: 250px;
+  height: 30px;
+  border: none;
+}
+.color {
+  background-color: #359339;
+  width: 250px;
+  height: 35px;
+  color: white;
+  border: none;
+}
