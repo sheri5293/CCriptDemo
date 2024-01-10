@@ -51,10 +51,12 @@ app.get("/api/appointments", authenticateToken, (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(Server is running on port ${PORT});
+  console.log(`Server is running on port ${PORT}`);
 });
 
 // Helper function to generate a random Bearer token
 function generateBearerToken() {
-  return Math.random().toString(36).substring(2) + new Date().getTime().toString(36);
+  return (
+    Math.random().toString(36).substring(2) + new Date().getTime().toString(36)
+  );
 }
