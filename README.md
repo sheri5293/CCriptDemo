@@ -14,7 +14,7 @@ The project Template can be used to build bigger projects
 
 ## Live Application URL
 
-### https://ccript-demo.netlify.app/
+### https://ccript-test.netlify.app
 This URL has the application deployed in
 
 ## Prerequisites
@@ -25,7 +25,7 @@ Refer to https://nodejs.org/en/ to install nodejs
 ## Live Application URL
 
 The Application is deployed in 
-### https://ccript-demo.netlify.app/
+### https://ccript-test.netlify.app
 
 Click on the link to see the application
 
